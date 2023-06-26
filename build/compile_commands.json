@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/daqi/Chat-server/build/src/server",
+  "command": "/usr/bin/c++   -I/home/daqi/Chat-server/include -I/home/daqi/Chat-server/include/server -I/home/daqi/Chat-server/include/server/db -I/home/daqi/Chat-server/include/server/model -I/home/daqi/Chat-server/include/server/redis -I/home/daqi/Chat-server/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/daqi/Chat-server/src/server/chatserver.cpp",
+  "file": "/home/daqi/Chat-server/src/server/chatserver.cpp"
+},
+{
+  "directory": "/home/daqi/Chat-server/build/src/server",
+  "command": "/usr/bin/c++   -I/home/daqi/Chat-server/include -I/home/daqi/Chat-server/include/server -I/home/daqi/Chat-server/include/server/db -I/home/daqi/Chat-server/include/server/model -I/home/daqi/Chat-server/include/server/redis -I/home/daqi/Chat-server/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/daqi/Chat-server/src/server/chatservice.cpp",
+  "file": "/home/daqi/Chat-server/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/daqi/Chat-server/build/src/server",
+  "command": "/usr/bin/c++   -I/home/daqi/Chat-server/include -I/home/daqi/Chat-server/include/server -I/home/daqi/Chat-server/include/server/db -I/home/daqi/Chat-server/include/server/model -I/home/daqi/Chat-server/include/server/redis -I/home/daqi/Chat-server/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/daqi/Chat-server/src/server/main.cpp",
+  "file": "/home/daqi/Chat-server/src/server/main.cpp"
+},
+{
+  "directory": "/home/daqi/Chat-server/build/src/server",
+  "command": "/usr/bin/c++   -I/home/daqi/Chat-server/include -I/home/daqi/Chat-server/include/server -I/home/daqi/Chat-server/include/server/db -I/home/daqi/Chat-server/include/server/model -I/home/daqi/Chat-server/include/server/redis -I/home/daqi/Chat-server/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/daqi/Chat-server/src/server/db/db.cpp",
+  "file": "/home/daqi/Chat-server/src/server/db/db.cpp"
+},
+{
+  "directory": "/home/daqi/Chat-server/build/src/server",
+  "command": "/usr/bin/c++   -I/home/daqi/Chat-server/include -I/home/daqi/Chat-server/include/server -I/home/daqi/Chat-server/include/server/db -I/home/daqi/Chat-server/include/server/model -I/home/daqi/Chat-server/include/server/redis -I/home/daqi/Chat-server/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /home/daqi/Chat-server/src/server/model/friendmodel.cpp",
+  "file": "/home/daqi/Chat-server/src/server/model/friendmodel.cpp"
+},
+{
+  "directory": "/home/daqi/Chat-server/build/src/server",
+  "command": "/usr/bin/c++   -I/home/daqi/Chat-server/include -I/home/daqi/Chat-server/include/server -I/home/daqi/Chat-server/include/server/db -I/home/daqi/Chat-server/include/server/model -I/home/daqi/Chat-server/include/server/redis -I/home/daqi/Chat-server/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /home/daqi/Chat-server/src/server/model/groupmodel.cpp",
+  "file": "/home/daqi/Chat-server/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "/home/daqi/Chat-server/build/src/server",
+  "command": "/usr/bin/c++   -I/home/daqi/Chat-server/include -I/home/daqi/Chat-server/include/server -I/home/daqi/Chat-server/include/server/db -I/home/daqi/Chat-server/include/server/model -I/home/daqi/Chat-server/include/server/redis -I/home/daqi/Chat-server/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /home/daqi/Chat-server/src/server/model/offlinemessagemodel.cpp",
+  "file": "/home/daqi/Chat-server/src/server/model/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/home/daqi/Chat-server/build/src/server",
+  "command": "/usr/bin/c++   -I/home/daqi/Chat-server/include -I/home/daqi/Chat-server/include/server -I/home/daqi/Chat-server/include/server/db -I/home/daqi/Chat-server/include/server/model -I/home/daqi/Chat-server/include/server/redis -I/home/daqi/Chat-server/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/daqi/Chat-server/src/server/model/usermodel.cpp",
+  "file": "/home/daqi/Chat-server/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/home/daqi/Chat-server/build/src/server",
+  "command": "/usr/bin/c++   -I/home/daqi/Chat-server/include -I/home/daqi/Chat-server/include/server -I/home/daqi/Chat-server/include/server/db -I/home/daqi/Chat-server/include/server/model -I/home/daqi/Chat-server/include/server/redis -I/home/daqi/Chat-server/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/daqi/Chat-server/src/server/redis/redis.cpp",
+  "file": "/home/daqi/Chat-server/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/home/daqi/Chat-server/build/src/client",
+  "command": "/usr/bin/c++   -I/home/daqi/Chat-server/include -I/home/daqi/Chat-server/include/server -I/home/daqi/Chat-server/include/server/db -I/home/daqi/Chat-server/include/server/model -I/home/daqi/Chat-server/include/server/redis -I/home/daqi/Chat-server/thirdparty  -g -g   -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/daqi/Chat-server/src/client/main.cpp",
+  "file": "/home/daqi/Chat-server/src/client/main.cpp"
+}
+]
